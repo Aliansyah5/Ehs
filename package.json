@@ -19,6 +19,6 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "handsontable": "^7.3.0"
+        "handsontable": "^10.0.0"
     }
 }
